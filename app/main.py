@@ -11,7 +11,6 @@ class Car:
 
 
 class CarWashStation:
-    pass
     def __init__(
         self,
         distance_from_city_center: float,
